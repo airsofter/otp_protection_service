@@ -45,7 +45,7 @@ CREATE DATABASE otp_service;
 ### 2. Клонируйте и настройте проект
 
 ```bash
-git clone https://github.com/airsofter/otp-protection-service.git
+git clone https://github.com/airsofter/otp_protection_service.git
 cd otp-protection-service
 ```
 
